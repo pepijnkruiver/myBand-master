@@ -1,0 +1,29 @@
+/*
+ * Dit is de custom style sheet van jouw website
+ *
+ */
+
+body {
+	
+
+}
+img{
+ height: 300px;
+ width: auto;
+}
+
+.desc {
+
+	background-color: #fff;
+	border: 1px solid #000;
+	position: absolute;
+	margin-left: 100px;
+	margin-top: -20px;
+	width: 200px;
+		
+}
+
+footer{
+    background-color: aqua;
+    text-align: center;
+}
