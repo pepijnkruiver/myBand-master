@@ -7,6 +7,7 @@
         <meta name="viewport" content="width=device-width">
 
         <link rel="stylesheet" href="css/main.css">
+    
 
     </head>
     <body>

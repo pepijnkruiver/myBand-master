@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+    
+  <title>RSS Ding</title>
+  <link>www.google.nl</link>
+  <description>XLM SWAG</description>
+  <item>
+    <title>tour news</title>
+    <link>www.facebook.com</link>
+    <description>De laatste optredens van 18 miles</description>
+  </item>
+  <item>
+    <title>foto's</title>
+    <link>spellen.nl</link>
+    <description>de nieuwe pics van de live shows</description>
+  </item>
+</channel>
+
+</rss>

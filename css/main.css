@@ -2,14 +2,17 @@
  * Dit is de custom style sheet van jouw website
  *
  */
-
+html{
+width: 100%;
+}
 body {
 	
-
+background-color: black;
 }
 img{
- height: 300px;
- width: auto;
+ height: 150px;
+ width: 150px;
+float: left;
 }
 
 .desc {
@@ -24,6 +27,256 @@ img{
 }
 
 footer{
-    background-color: aqua;
+    margin-top: 10px;
+    width: 100%;
+    float: left;
+    background-color: royalblue;
+    color: white;
     text-align: center;
 }
+
+
+.news{
+    float: left;
+    width: 100%;
+}
+.navfull{
+    width: 100%;
+    float: left;
+
+}
+.nav2{ 
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+nav{
+    width: 1154px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+nav li a:hover {
+    background-color: #111;
+}
+
+
+.homearticle{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+   
+}
+section{
+     min-height: 160px;
+}
+
+.opzij{
+    float: left;
+    margin-left: 53px;
+    margin-top: 5px;
+    width: 950px;
+    height: 160px;
+    background-color: white;
+}
+.opzij p{
+ margin-left: 10px;
+}
+
+.opzij h1{
+ margin-left: 10px;
+}
+.page{
+width: 180px; ;
+  margin-left: auto ;
+  margin-right: auto ;
+}
+.page ul {
+  list-style-type: none;
+}
+.page li{
+    text-align: center;
+    background-color: white;
+    color: black;
+    height: 20px;
+    width: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+    float: left;
+}
+
+
+.header{
+    width: 100%;
+    float: left; 
+}
+.header2{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    }
+
+.about{
+    width: 100%;
+    float: left;
+}
+.about2{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.about3{
+    width: 1154px;
+    float: left;
+    background-color: white;
+}
+.about3 h1{
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.abouttext{
+margin-right: 30px;
+width: 600px;
+ float: right;
+margin-bottom: 20px;
+
+}
+
+.vid{
+    margin-top: 50px;
+    margin-left: 20px;
+    float: left;
+}
+
+.tour{
+    width: 100%;
+    float: left;
+
+}
+
+.tour2{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.tour3{
+    width: 1154px;
+    float: left;
+    background-color: white;
+
+}
+.tour5{
+    float: left;
+    width: 350px;
+    margin-left: 70px;
+    margin-bottom: 10px;
+    }
+.hr{
+    float: left;
+    width: 1013px;
+}
+.tour4 h1{
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cont{
+    width: 100%;
+    float: left;
+
+}
+
+.cont2{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.cont3{
+    width: 1154px;
+    float: left;
+    background-color: white;
+
+}
+.cont3 h1{
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.conttext{
+margin-left: 5%;
+width: 500px;
+ float: left;
+margin-bottom: 48px;
+
+}
+
+.pic{
+    margin-top: 50px;
+    margin-right: 5%;
+    float: right;
+}
+.search{
+    width: 100%;
+    float: left;
+
+}
+
+.search2{
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.search3{
+    width: 1154px;
+    float: left;
+    background-color: white;
+    min-height: 400px;
+
+}
+.search3 h1{
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#txtHint{
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.zoek{
+    width: 160px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right:auto;
+}
+
